@@ -9,12 +9,14 @@ We propose a novel single-shot multispectral pedestrian detector, called CIAN, t
 <p align="left">
 <img src="https://github.com/luzhang16/CIAN/blob/master/cian_structure.png" alt="CIAN Structure" width="770px">
 </p>
+
+
+**Updated:** Evaluation results are now updated on the [improved testing annotations](http://paul.rutgers.edu/~jl1322/multispectral.htm) provided by Liu et al. for a reliable comparison.
+
+
 <p align="left">
 <img src="https://github.com/luzhang16/CIAN/blob/master/eval_results.png" alt="Evaluation Results on the KAIST" width="770px">
 </p>
-
-
-Evaluation results are now updated on the [improved testing annotations](http://paul.rutgers.edu/~jl1322/multispectral.htm) provided by Liu et al. for a reliable comparison.
 
 
 ### Downloads
